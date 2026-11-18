@@ -1,0 +1,11 @@
+{
+  "title": "LucreziaVenturini-portfolio",
+  "description": "A platform for viewing and managing shared content, helping users quickly find the information and resources they need.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
